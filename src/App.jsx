@@ -28,6 +28,10 @@ const App = () => {
             <li>NodeJs</li>
             <li>MongoDb</li>
           </ul>
+       <div className='mt-9'>
+       <h2 className="bg-blue-900 text-xl pl-[105px] text-white py-2">Portfolio</h2>
+       <a className='pl-[105px] text-white pt-3' href="https://portfolio-argyris-projects.vercel.app/">Argyrios_Portfolio</a>
+       </div>
         </div>
       </div>
       <div className="w-[45%] px-8 py-6 bg-white">
@@ -146,6 +150,7 @@ const App = () => {
               
               </div>
             </div>
+            
           </li>
         </ol>
       </div>
